@@ -1,13 +1,5 @@
 #Zadatak #56
 
-For this assignment, we are going to give you a list of challenges. Only do as many as you can do *well*. The purpose of this assignment is to really focus on each challenge. You are not expected to complete all of the challenges. Do as many as you can before the deadline.
-
-
-When you submit a file for each challenge that you completed, include the number of minutes it took you to complete the challenge. For example for the first challenge, the name of the file could be imePrezimeminutes65Challenge1.
-
-The assignment will be considered completed when you have:
-submitted one or more files for each completed challenge including the number of minutes required to complete the task
-
 1. Napisati funkciju koja konvertuje bilo koji string u camelCase. Recimo da imamo proizvoljni string  “Talk is cheap. Show me the code.”, nasa funkcija ce ga konvertovati da izgleda ovako: talkIsCheapShowMeTheCode.
 2. Napisati program koji ce generisat niz duzine 10, i popuniti ga unikatnim nasumicnim brojevima od 0 do 10. Dakle ne smijemo imati 2 ista broja u nizu.
 3. Napisati funkciju koja ce generisati 2D niz. 2D niz treba da izgleda ovako:
